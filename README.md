@@ -53,3 +53,4 @@ Below are a collated list of suggestions that I have not yet seen, plus shows I 
 - Secret City
 - Game Of Thrones
 - Walking Dead
+- Ozark
